@@ -5,7 +5,7 @@ This repository contains key learnings from the "**Regression Analysis and Advan
 
 ---
 
-## 📚 Course Modules
+## Course Modules
 
 ### Module 1: Introduction to Complex Data Relationships
 
