@@ -34,4 +34,3 @@ This repository contains key learnings from the "**Regression Analysis and Advan
 ### Module 6: End-of-Course Project
 
 -   Built a **logistic regression model** to predict a user's `verified_status` on TikTok.
--   Findings showed that **longer videos were associated with higher odds of an account being verified**.
